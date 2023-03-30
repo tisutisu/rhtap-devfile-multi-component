@@ -1,0 +1,1 @@
+RHTAP multiple components sample
